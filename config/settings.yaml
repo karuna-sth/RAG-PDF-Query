@@ -1,0 +1,9 @@
+paths:
+  raw_pdfs: "./data/raw_pdfs/"
+  chroma_db: "chroma/"
+
+embedding: "nomic-embed-text"
+
+
+llm: 
+  model: "mistral"
